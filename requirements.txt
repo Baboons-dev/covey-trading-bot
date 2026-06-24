@@ -11,7 +11,7 @@ construct==2.10.68
 construct-typing==0.6.2
 cryptography==48.0.1
 dotenv==0.9.9
-exceptiongroup==1.3.0
+exceptiongroup==1.3.1
 frozenlist==1.7.0
 h11==0.16.0
 hpke==0.3.2
